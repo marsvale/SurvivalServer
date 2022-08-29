@@ -1,0 +1,45 @@
+[02:59:23] [ServerMain/INFO]: Building unoptimized datafixer
+[02:59:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:59:25] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:59:28] [ServerMain/INFO]: Loaded 7 recipes
+[02:59:29] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[02:59:30] [Server thread/INFO]: Loading properties
+[02:59:30] [Server thread/INFO]: This server is running Paper version git-Paper-134 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: aabf676)
+[02:59:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:59:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:59:31] [Server thread/INFO]: Default game type: SURVIVAL
+[02:59:31] [Server thread/INFO]: Generating keypair
+[02:59:31] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[02:59:31] [Server thread/INFO]: Using epoll channel type
+[02:59:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:59:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:59:31] [Server thread/INFO]: Preparing level "world"
+[03:00:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:00:02] [Server thread/INFO]: Time elapsed: 581 ms
+[03:00:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:00:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:00:04] [Server thread/INFO]: Time elapsed: 1643 ms
+[03:00:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:00:05] [Server thread/INFO]: Time elapsed: 1185 ms
+[03:00:05] [Server thread/INFO]: Running delayed init tasks
+[03:00:05] [Server thread/INFO]: Done (35.560s)! For help, type "help"
+[03:00:05] [Server thread/INFO]: Timings Reset
+[03:03:00] [User Authenticator #1/INFO]: UUID of player MarsVale is bb026827-73df-42a5-b5d8-0386ecb11dc2
+[03:03:00] [Server thread/INFO]: MarsVale joined the game
+[03:03:01] [Server thread/INFO]: MarsVale[/192.168.2.65:63716] logged in with entity id 387 at ([world]153.5, 69.0, 113.5)
+[03:05:09] [Server thread/INFO]: MarsVale lost connection: Disconnected
+[03:05:09] [Server thread/INFO]: MarsVale left the game
+[03:06:39] [Server thread/INFO]: Stopping the server
+[03:06:39] [Server thread/INFO]: Stopping server
+[03:06:39] [Server thread/INFO]: Saving players
+[03:06:40] [Server thread/INFO]: Saving worlds
+[03:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:06:48] [Server thread/INFO]: Flushing Chunk IO
+[03:06:48] [Server thread/INFO]: Closing Thread Pool
+[03:06:48] [Server thread/INFO]: Closing Server

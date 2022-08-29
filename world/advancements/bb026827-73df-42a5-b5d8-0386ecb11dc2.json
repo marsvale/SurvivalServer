@@ -1,0 +1,55 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-08-29 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2022-08-29 03:03:48 +0000",
+      "minecraft:beach": "2022-08-29 03:04:36 +0000",
+      "minecraft:sparse_jungle": "2022-08-29 03:03:01 +0000",
+      "minecraft:river": "2022-08-29 03:04:10 +0000",
+      "minecraft:jungle": "2022-08-29 03:04:23 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
